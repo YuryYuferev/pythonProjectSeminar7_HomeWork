@@ -1,0 +1,1 @@
+# pythonProjectSeminar7_HomeWork
